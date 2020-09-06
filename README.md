@@ -72,3 +72,14 @@ cd CarND-Capstone/ros
 roslaunch launch/site.launch
 ```
 5. Confirm that traffic light detection works on real life images
+
+
+### How to run the simulator on Mac OS
+
+```sh
+cd mac_sys_int
+ls
+# sys_int.app
+sudo chmod u+x sys_int.app
+chmod +x sys_int.app/Contents/MacOS/capstone_v2
+```

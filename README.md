@@ -1,6 +1,6 @@
 ### Ntes to Reviewer
 
-zuqqhi2@gmail.com - submitting as an individual
+Hidetomo Kikuchi (zuqqhi2@gmail.com) - submitting as an individual
 
 ### Overview
 
